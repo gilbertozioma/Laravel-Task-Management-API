@@ -103,8 +103,8 @@ Validation specifics for new fields:
 
 ```bash
 # Clone the repository
-git clone git@github.com:gilbertozioma/tms-api.git
-cd tms-api
+git clone git@github.com:gilbertozioma/Laravel-Task-Management-API.git
+cd Laravel-Task-Management-API
 
 # Or extract from ZIP
 unzip task-management-system-api.zip
